@@ -30,7 +30,7 @@ You are expected to be familiar with the fundamentals of Machine Learning. Only 
 
 ## Topic selection
 
-After receiving an email of acceptance, please rank your preferred topics by completing this [form](https://forms.gle/MooK86forbL5Dfoe6).
+After successful registration in the seminar, please rank your preferred topics by completing this [form](https://forms.gle/MooK86forbL5Dfoe6).
 
 Make sure you rank all available topics based on your preferences by 27-11-2026.
 
