@@ -7,8 +7,6 @@ The seminar course is open for Master students.
 Important dates:
 
 - Kickoff meeting: 22-10-2026 Tuesday, 11:00 - 12:00
-- Registration deadline: 31-10-2026
-- Acceptance notification: 06-11-2026
 - Topic selection: 27-11-2026
 - Paper assignment: 04-12-2026
 - Practice presentations: from 12-01-2027 to 31-01-2027
@@ -30,18 +28,6 @@ A list of available topics and papers is available [here](https://docs.google.co
 
 You are expected to be familiar with the fundamentals of Machine Learning. Only those students who have already passed one of the fundamental Machine Learning courses during the course of their master studies will be accepted to the seminar.
 
-## Registration
-
-Fill out this form [here](https://forms.gle/nyuZyu5jvhawb3ZB8).
-
-You are required to enter your name, email address, student number and the list of the courses from the "intelligent systems" specialization that you have already passed, along with your obtained grade. We consider that you are fit for the seminar if you are a master's student and have passed courses on the fundamentals of machine learning with a satisfactory grade.
-
-There are a limited number of research topics available, so our registrations are also limited. The final list of accepted registrations will be notified via email.
-
-Deadline: 31-10-2026
-
-Acceptance notification for the course will be sent by email on or before 06-11-2026.
-
 ## Topic selection
 
 After receiving an email of acceptance, please rank your preferred topics by completing this [form](https://forms.gle/MooK86forbL5Dfoe6).
@@ -55,8 +41,6 @@ Assignment of papers will be notified on 04-12-2026.
 To be announced.
 
 [//]: *  (The paper assignments and presentation schedule are available TBD. )
- 
-
 
 ## Location:
 
