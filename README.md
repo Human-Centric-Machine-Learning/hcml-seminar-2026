@@ -6,7 +6,7 @@ The seminar course is open for Master students.
 
 Important dates:
 
-- Kickoff meeting: 22-10-2026 Tuesday, 11:00 - 12:00
+- Kickoff meeting: 22-10-2026 Thursday, 11:00 - 12:00
 - Topic selection: 27-11-2026
 - Paper assignment: 04-12-2026
 - Practice presentations: from 12-01-2027 to 31-01-2027
@@ -44,7 +44,7 @@ To be announced.
 
 ## Location:
 
- - Kickoff meeting: 22-10-2026 Tuesday, 11:00 - 12:00
+ - Kickoff meeting: 22-10-2026 Thursday, 11:00 - 12:00
  - Location: Building G26, Room 111.
 
 ## Instructors
